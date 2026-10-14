@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import "./portfolio.css";
+import "./Portfolio.css";
 import {
   Moon,
   SunMedium,
